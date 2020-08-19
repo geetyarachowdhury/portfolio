@@ -1,0 +1,147 @@
+body{
+    background-color: black;
+    line-height: 1.5;
+    color: white;
+}
+
+h2 {
+    padding: 1% 5% 2% 0;
+    color: #ffd31d;
+    font-family: 'Shrikhand', cursive;
+}
+
+h1 {
+    padding: 1% 5% 0 0;
+}
+
+.top {
+    padding: 3% 0 7% 7%;
+    margin: 5% auto;
+    font-family: 'Lemonada', cursive;
+}
+
+.logo {
+    color: #ffd31d;
+    font-weight: bolder;
+    
+}
+
+.nav-item {
+    padding: 0px 18px;
+    color: white;
+    font-weight: 600;
+}
+
+.me {
+    margin-left: 10%;
+    transform: rotate(-25deg);
+}
+
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-color: white;
+    color: white;
+    
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    color : #ffd31d;
+    text-decoration: none;
+  }
+
+
+.navicon:hover{
+    color : #ffd31d;
+}
+  
+ h1 span:hover {
+    color : #ffd31d;
+ }
+
+ hr {
+    border: solid #ffd31d 7px;
+    border-bottom: none;
+}
+
+#about {
+    margin: 5% auto;
+    padding-bottom: 3%;
+}
+
+.progress-bar {
+    background-color: #ffd31d;
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.progress {
+    margin: 1.5% auto;
+}
+
+.form-control {
+    border-radius: 0;
+    border: 0;
+    background: rgba(255, 255, 250, 0.3);
+    color: white;
+}
+.btn {
+    background-color: #ffd31d;
+    border-radius: 0;
+    border: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+    padding: 7% 0;
+    text-align: center;
+}
+
+.foo:hover {
+    color: #ffd31d;
+}
+
+.touch {
+    margin: 3% auto;
+}
+
+#skills {
+    margin: 5% auto;
+}
+
+p span{
+    color: #ffd31d;
+    font-weight: bold;
+}
+
+#skills h2 {
+    padding: 5% 5% 2% 0;
+    text-align: center;
+    color: white;
+}
+.mypic {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 13%;
+}
+
+.inspire {
+    margin-left: 10%;
+    transform: rotate(10deg);
+}
+
+#contact {
+    padding-top: 4%;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
