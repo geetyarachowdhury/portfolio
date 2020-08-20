@@ -162,6 +162,9 @@ p span{
         transform: rotate(0);
         text-align: center;
     }
+    .ab {
+        padding-top: 52%;
+    }
 }
 
 #contact {
